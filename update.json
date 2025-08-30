@@ -1,6 +1,4 @@
 {
-  "minVersionCode": 1,
-  "latestVersionCode": 1,
-  "updateUrl": "https://play.google.com/store/apps/details?id=com.rr.clickme",
-  "whatsNew": "🎉 Initial release"
+  "versionCode": 2,
+  "updateUrl": "https://your-download-link.com/app.apk"
 }
